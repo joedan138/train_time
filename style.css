@@ -1,0 +1,13 @@
+body {
+    background: rgb(52, 38, 250);
+    background: linear-gradient(to bottom right, rgb(30, 154, 236), yellow);
+};
+
+.tableHeader {
+    text-transform: uppercase; 
+}
+
+.trainPic {
+    height: 100px;
+    width: 100px;
+}
