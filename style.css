@@ -1,6 +1,6 @@
 body {
-    background: rgb(52, 38, 250);
-    background: linear-gradient(to bottom right, rgb(30, 154, 236), yellow);
+    background: rgb(234, 234, 241);
+    background: linear-gradient(to bottom right, rgb(3, 49, 80), rgb(206, 206, 194));
 };
 
 .tableHeader {
